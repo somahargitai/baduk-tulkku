@@ -1,5 +1,23 @@
+# Baduk/Go Gaming Platform
 
+A modern web application for playing Baduk/Go online, built with Next.js, Firebase, and Socket.io. This platform provides real-time gameplay, user authentication, and game history tracking.
 
+## Features
+
+- Real-time game board with SVG-based rendering
+- User authentication with email and Google sign-in
+- Game history and replay functionality
+- User profiles and statistics
+- Admin dashboard for user management
+- Responsive design for desktop and mobile play
+
+## Tech Stack
+
+- **Frontend**: React, Next.js, Tailwind CSS
+- **Backend**: Firebase, Node.js with Express
+- **Real-time Communication**: Socket.io
+- **Authentication**: Firebase Auth
+- **Database**: Firebase Realtime Database
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
